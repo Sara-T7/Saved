@@ -92,4 +92,3 @@ SyncWrite is a modern, production-ready real-time collaborative document editor 
 
 ## 📜 License
 MIT License - Created for Collaborative Document Editing.
-RTCDE  means Real Time Collaborative Document Editor
